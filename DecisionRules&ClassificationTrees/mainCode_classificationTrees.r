@@ -1,12 +1,12 @@
+# clean environment
+rm(list = ls())
+
 # import all necessary libraries
 library(rpart)
 library(rpart.plot)
 library(gmodels)
 library(caret)
 library(forecast)
-
-# clean environment
-rm(list = ls())
 
 # read csv file
 ebay.df <- read.csv("/Users/kristenhanold/Desktop/CIS4930/eBayAuctions.csv") 
