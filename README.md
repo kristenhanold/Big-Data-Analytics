@@ -1,4 +1,4 @@
-# BigDataAnalytics--LogisticRegression
+# BigDataAnalytics
 
 CIS4930 Big Data Analytics
 Individual Assignment 1: Predicting Airfare on New Routes
